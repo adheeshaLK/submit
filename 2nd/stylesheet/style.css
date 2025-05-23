@@ -1,0 +1,71 @@
+body{
+    padding:0;
+    margin:0;
+}
+body{
+    width:100%;
+    height:100vh;
+    background-image: "dodge.avif";
+}
+#middle{
+    align-items: center;
+    background-color:antiquewhite;
+    width:30%;
+    height: 500px;
+    margin-top: 40px;
+    margin-bottom: 40px;
+    margin-left: 200px;
+    margin-right: 60px;
+    padding: 30px 20px 30px 20px;
+    border-radius: 20px;
+}
+#btnlookup{
+    margin-left:80px;
+    
+    color:black;
+    background-color: azure;
+    border: none;
+    margin-top: 20px;
+    padding:5px 8px 5px 8px;
+    border-radius: 3px;
+}
+#btnlookup:hover{
+    color:rgb(90, 78, 223);
+    background-color: aqua;
+}
+#name{
+    margin-right: 20px;
+    border: none;
+    margin-bottom: 10px;
+    padding: 5px 30px 5px 35px;
+    border-radius: 5px;
+}
+#password{
+    margin-bottom: 5px;
+    border:none;
+    border-radius: 5px;
+    padding:5px 30px 5px 35px;
+}
+#checkbox{
+    border: none;
+    margin-top: 2px;
+    margin-bottom: 10px;
+    
+}
+#date{
+    margin-bottom: 10px;
+    border: none;
+    border-radius: 5px;
+    padding:5px 55px 5px 60px;
+}
+#select{
+    border: none;
+    margin-bottom: 40px;
+    padding: 2px 5px 2px 3px;
+    border-radius: 2px;
+}
+#textarea{
+    border: none;
+    padding:20px 40px 20px 20px;
+    border-radius: 5px;
+}
